@@ -16,7 +16,6 @@ The dataset used for this analysis is the **Walmart Sales Forecasting** dataset 
 The dataset contains the following key columns:
 - `Date`: The date of the sale
 - `Store`: The store number
-- `Dept`: The department number
 - `Weekly_Sales`: The total sales for that week
 - `IsHoliday`: Whether the week is a holiday
 - `Temperature`: The average temperature for the week
