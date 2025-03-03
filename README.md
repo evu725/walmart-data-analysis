@@ -1,13 +1,11 @@
 # Walmart Sales Data Analysis
 
+Rutgers 2025 BITS Datathon 
+- Team Members: Emily Vu, Krisha Patel
+
 ## Overview
 
 This project analyzes Walmart sales data using various visualizations and exploratory data analysis (EDA) techniques to uncover insights into customer behavior, sales trends, and store performance. 
-
-## Contributors
-
-- [Emily Vu]([GitHub_Profile_Link](https://github.com/evu725))
-- Krisha Patel
 
 ## Dataset
 
