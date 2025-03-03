@@ -13,7 +13,7 @@ This project analyzes Walmart sales data using various visualizations and explor
 
 The dataset used for this analysis is the **Walmart Sales Forecasting** dataset from Kaggle. It includes data related to Walmart's historical sales, store performance, and promotions.
 
-- [[Link to the Kaggle Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)](Insert Kaggle Dataset URL)
+- [Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
 
 The dataset contains the following key columns:
 - `Date`: The date of the sale
