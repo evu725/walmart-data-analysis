@@ -45,9 +45,7 @@ To run this project, you need to install the following Python libraries:
 - numpy
 - matplotlib
 - seaborn
-- scikit-learn
-- xgboost
-- statsmodels
+
 
 You can install them via `pip`:
 
